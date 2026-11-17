@@ -144,13 +144,3 @@ plt.show()
 <img width="748" height="378" alt="image" src="https://github.com/user-attachments/assets/a1502fce-9b98-49be-815b-38ace39fe962" />
 <img width="583" height="331" alt="image" src="https://github.com/user-attachments/assets/5d611244-90fd-4e7c-a091-8de515cb6e64" />
 <img width="777" height="334" alt="image" src="https://github.com/user-attachments/assets/adb22836-6a59-4244-bc9a-6594b30bbd7c" />
-
-
-
-
-
-
-
-
-print("\nRESULT")
-print("Box-Jenkins ARIMA modelling completed successfully.")
